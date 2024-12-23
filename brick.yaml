@@ -1,5 +1,5 @@
-name: screen
-description: A new brick created with the Mason CLI.
+name: mvc_screen_res
+description: A new brick created with the Mason CLI. to generate mvc screen responsive
 
 # The following defines the brick repository url.
 # Uncomment and update the following line before publishing the brick.
